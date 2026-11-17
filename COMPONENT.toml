@@ -3,7 +3,7 @@ name = "SigmaOS-appsec"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "appsec component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
